@@ -12,18 +12,18 @@
 
 ### Содержание курса:
 
-1. [Введение в NLP и эмбеддинги слов](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2001)
+1. [Введение в NLP и эмбеддинги слов](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%201)
 
-2. [Рекуррентные нейронные сети (RNN)](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2002)
+2. [Рекуррентные нейронные сети (RNN)](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%202)
 
 3. [Языковое моделирование](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2003)
 
-4. [Машинный перевод и механизм Attention](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2004)
+4. [Машинный перевод и механизм Attention](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%204)
 
 5. [Архитектура Transformer](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2005)
 
-6. [Предобучение и дообучение языковых моделей](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2006)
+6. [Предобучение и дообучение языковых моделей](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%206)
 
-7. [От GPT до GPT-3 и Zero-shot Learning](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2007)
+7. [От GPT до GPT-3 и Zero-shot Learning](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%207)
 
-8. [Введение в обработку аудио](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%2008)
+8. [Введение в обработку аудио](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Natural%20Language%20Processing/Модуль%208)
