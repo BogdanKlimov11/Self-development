@@ -14,22 +14,22 @@
 
 1. [Введение в ML, анализ данных и библиотеку Sklearn](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2001)
 
-2. [Линейные модели]()
+2. [Линейные модели](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2002)
 
-3. [Композиции алгоритмов и выбор модели]()
+3. [Композиции алгоритмов и выбор модели](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2003)
 
-4. [Введение в нейронные сети]()
+4. [Введение в нейронные сети](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2004)
 
-5. [Сверточные нейросети]()
+5. [Сверточные нейросети](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2005)
 
-6. [Продвинутое обучение нейросетей]()
+6. [Продвинутое обучение нейросетей](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2006)
 
-7. [Классификация изображений]()
+7. [Классификация изображений](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2007)
 
-8. [Семантическая сегментация]()
+8. [Семантическая сегментация](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2008)
 
-9. [Детекция объектов на изображениях]()
+9. [Детекция объектов на изображениях](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2009)
 
-10. [Генеративные модели и автоэнкодеры]()
+10. [Генеративные модели и автоэнкодеры](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2010)
  
-11. [Генеративно-состязательные сети]()
+11. [Генеративно-состязательные сети](https://github.com/BogdanKlimov11/Self-development/tree/main/DLS/Computer%20Vision/Модуль%2011)
