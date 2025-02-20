@@ -39,7 +39,7 @@
 
 11. [Wolfram](https://www.wolfram.com/language/fast-introduction-for-math-students/ru/) — справочник по
     языку программирования, который используется в программе Mathematica. Mathematica — сервис с полной
-    свободой для математических вычислений, в отличие от онлайн-сервиса<a href="https://www.wolframalpha.com/">Wolfram Alpha</a>.
+    свободой для математических вычислений, в отличие от онлайн-сервиса <a href="https://www.wolframalpha.com/">Wolfram Alpha</a>.
 
 13. [MDN](https://developer.mozilla.org/) — сайт с материалами по веб-разработке. На сайте есть всё — от
     основ вроде HTML, CSS, JavaScript до продвинутых технологий, таких как SVG, Web API, HTTP.
